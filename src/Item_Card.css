@@ -1,0 +1,21 @@
+* {
+    font-size: 16px;
+}
+
+.Card {
+    border: 1px solid black;
+    border-radius: 10px;
+    padding: 2px;
+    height: 200px;
+    width: 150px;
+}
+
+.Card h3 {
+    text-align: center;
+}
+
+.Card img {
+    max-width: 100px;
+    max-height: 100px;
+    object-fit: contain;
+}
