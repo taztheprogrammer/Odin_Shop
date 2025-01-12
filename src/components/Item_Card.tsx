@@ -1,5 +1,3 @@
-import './Item_Card.css'
-
 export default function Item_Card( { itemData } ) {
 
 

@@ -1,7 +1,6 @@
 import { useState } from 'react'
-import './App.css'
-import Home_Page from './Home_Page'
-import Shop_Page from './Shop_Page'
+import Home_Page from './components/HomePage/Home_Page'
+import Shop_Page from './components/Shop_Page'
 function App() {
 
   const [pageNum, setpageNum] = useState(0);

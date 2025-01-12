@@ -2,6 +2,27 @@
     font-size: 16px;
 }
 
+body {
+    overflow: hidden;
+}
+
+/* the entire page */
+.shopPage {
+    border: 1px solid black;
+    max-width: 1000px;
+    height: 100vh;
+    margin: 0 auto;
+}
+
+/* card container */
+.CardContainer {
+    border: 1px solid black;
+    height: 500px;
+    padding: 5px;
+    display: flex;
+    gap: 5px;
+}
+
 .Card {
     border: 1px solid black;
     border-radius: 10px;

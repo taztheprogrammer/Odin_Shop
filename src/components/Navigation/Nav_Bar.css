@@ -1,0 +1,15 @@
+.mainContainer {
+    border: 1px solid rgb(109, 202, 126);
+    height: 70px;
+    background-color: rgb(109, 202, 126);
+    display: relative;
+}
+
+.title {
+    color: white;
+    padding: 0;
+    margin: 0;
+    font-size: 2rem;
+    margin: 20px 10px;
+
+}
